@@ -187,16 +187,6 @@ Run the test suite:
 pytest app/tests/ -v
 ```
 
-## 🐳 Docker Support
-
-### Using Docker Compose
-```bash
-# Build and run
-docker-compose up --build
-
-# Run in background
-docker-compose up -d
-```
 
 ## 📁 Project Structure
 
