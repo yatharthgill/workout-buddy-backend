@@ -6,7 +6,7 @@ A comprehensive FastAPI-based backend service for managing workout routines, die
 
 - **User Authentication & Authorization**
   - JWT-based authentication
-  - OAuth integration (Google, GitHub)
+  - OAuth integration (Google)
   - Password reset functionality
   - API key management
 
